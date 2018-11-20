@@ -1,4 +1,4 @@
 a <- function(x) {
-   x + 3
+   x * 3
   
 }
